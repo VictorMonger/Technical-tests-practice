@@ -1,5 +1,5 @@
-const absoluteDifference = (squareProportion, arr) => {
-  const position = squareProportion - 1;
+const absoluteDifference = (matrixProportion, arr) => {
+  const position = matrixProportion - 1;
   let leftDiagonalSum = 0;
   let rightDiagonalSum = 0;
 
