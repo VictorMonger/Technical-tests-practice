@@ -19,5 +19,3 @@ const romanToInt = (romanNumber) => {
   }
   return result;
 };
-
-console.log(romanToInt("IV"));
